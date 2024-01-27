@@ -6,7 +6,7 @@ This organization houses the code and resources for the AFCON Challenge.
 
 **Backend:**
 
-* **Bun** - Bun is a fast, all-in-one JavaScript runtime designed for the modern JavaScript ecosystem.
+* **Bun** - A fast, all-in-one JavaScript runtime designed for the modern JavaScript ecosystem.
 * **Elysia.js** - Elysia is an ergonomic framework for Humans. With end-to-end type safety and great developer experience.
 * **PostgreSQL** - The powerful open-source relational database system.
 * **Judge0** - The popular open-source solution for running and judging programming challenges.
