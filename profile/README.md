@@ -17,4 +17,4 @@ This organization houses the code and resources for the AFCON Challenge.
 * **jQuery** - The widely-used JavaScript library for simplifying DOM manipulation and event handling.
 
 > [!TIP]
-> You can learn more about the used technology by reading this [article](https://blog.kerolloz.dev/afcon-challenge-under-the-hood).
+> You can learn more about the used tech stack by reading this [article](https://blog.kerolloz.dev/afcon-challenge-under-the-hood).
